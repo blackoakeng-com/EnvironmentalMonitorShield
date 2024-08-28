@@ -1,2 +1,4 @@
 # EnvironmentalMonitorShield
 Source code and collateral repo for blackoakeng.com model #BE-SHEN.
+
+The Black Oak Engineering (BOE) Environmental Monitor (#BE-SHEN) has a standard Arduino Uno R3 Shield pinout.  The board is smaller than an Arduino Uno.  It will work with any host that supports the standard interface.  It provides sensors for temperature, humidity, barometric pressure, and light level.  It has a 16x2 transmissive SPI LCD with backlight that can be programmed to display measurements and status.  It has two assignable tactile switches for user input.  It has a Real Time Clock for accurate, uninterrupted time keeping.  It also has a micro SD card holder for recording data.  It operates at low power and is suitable for battery operated hosts.  Sensors (except photo sensor) and SD card are on bottom to minimize the effect of dust.
